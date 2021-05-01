@@ -33,7 +33,7 @@ function Product(){
             $ {product.price}
         </div>
         <div>
-            {product.description}
+            {product.description}       
         </div>
     </div>
     
